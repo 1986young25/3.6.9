@@ -1,0 +1,8 @@
+{
+  "name": "New Titan",
+  "description": "Advanced Titan Workspace & Mission Control Dashboard for team projects, task management, analytics, and intelligence.",
+  "requestPermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
